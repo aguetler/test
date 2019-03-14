@@ -18,3 +18,8 @@ Jetzt ändern wir lokal die Datei und später auch am Server (allerdings beides 
 Das ist die lokale Anpassung! 
 Erfolgte um 09:32 Uhr
 
+Perfect, and now we also change the content of README.txt on the server!
+It is now 09:33 am.
+All things are good.
+
+Alles wieder ok.
