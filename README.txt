@@ -13,3 +13,8 @@ Yes, everything was ok!
 Great!
 Now we change the file README.txt on the server - and see what will happen...
 It is now 09:27 am.
+
+Jetzt ändern wir lokal die Datei und später auch am Server (allerdings beides gleichzeitig, mit anderen Inhalten)
+Das ist die lokale Anpassung! 
+Erfolgte um 09:32 Uhr
+
